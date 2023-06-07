@@ -127,7 +127,13 @@ a {
     width: 100%;
 
 }
-
+.div5 .buttn1
+{
+    position: relative;
+    bottom: 395px;
+    left: 24px;
+    
+}
 .p1 {
     font-size: larger;
     font-weight: bolder;
@@ -152,19 +158,21 @@ a {
     color: blue;
 
 }
+.b{
+    margin-top: 15%;
+}
 
 .buttn1 {
     background-color: white;
     color: blue;
     border: none;
-    position: relative;
-    left: 50px;
-
-    bottom: 400px;
+    /* position: relative; */
+    cursor: pointer;
     font-size: 18px;
     padding-right: 2%;
     padding-left: 2%;
 }
+
 
 .div7 {
 
@@ -331,37 +339,156 @@ a {
 
 
 .b {
-    position: relative;
+    /* position: relative; */
     bottom: 340px;
     left: 150px;
     
 }
 
-.div17 img {
+.card-bg-overlay img {
     width: 100%;
+    height: 250px;
 }
 
-.div18 img {
-    width: 100%;
-}
-
-.div19 img {
-    width: 100%;
-    
-}
-
-.div17,
-.div18,
-.div19 {
+.card-bg-overlay {
     width: 32%;
     margin-top: 2%;
     margin-right: 6%;
+    position: relative;
+
+    text-align: center;
     
+}
+.card-bg-overlay .overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
 }
 .p3{
     color: white;
-    position: relative;
+    /* position: relative; */
     bottom: 240px;
     left: 5%;
     width: 95%;
 }
+
+
+
+.Latest{
+    width: 100%;
+    margin-top: 10%;
+}
+.div21{
+    width: 100%;
+    
+}
+.most{
+   margin-top: 6%;
+    position: relative;
+    left: 150px;
+    font-weight: bold;
+   width: 40%;
+   
+   
+}
+.nb-border3{
+    width: 100%;
+    border-bottom: 1px solid #aba7a7;
+}
+.right2 img{
+    margin-top: 2%;
+    width: 100%;
+
+}
+.right2{
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    
+}
+.div21 img{
+    height: 190px;
+}
+.right2 p{
+    width:95%;
+    padding-top: 0px;
+    padding-left: 4%;
+}
+.aside1{
+    width: 100%;
+}
+.b2{
+    position: relative;
+    bottom: 200px;
+    left: 20px;
+    cursor: pointer;
+}
+.right2 i{
+    border: 1px solid white;
+    border-radius: 50%;
+    background-color: #ffffff;
+    height: 30px;
+    position: relative;
+    bottom: 306px;
+    left: 140px;
+    padding: 2%;
+}
+.load{
+    width: 10%;
+    background-color: white;
+    text-align: center;
+    margin-top: 5%;
+    border: 1px solid gray;
+  cursor: pointer;
+border-radius: 25px;
+padding: 1%;
+margin-bottom: 2%;
+}
+footer{
+    background-color: black;
+    justify-content: space-between;
+}
+.foot{
+    padding-top: 3%;
+    width: 22%;
+ 
+    color: #e1e2e5;
+}
+.margin_top{
+    margin-bottom: 7%;
+}
+.foot p{
+    color: #c2c2c2;
+}
+
+
+.lastul {
+    color:#c2c2c2 ;
+    margin-left: 25%;
+   width: 55%;
+    justify-content: space-between;
+
+}
+.lastul li{
+    width: 30%;
+    
+}
+h2{
+    color: white;
+}
+input{
+    background-color: transparent;
+    border-right: none;
+    border-top: none;
+    border-left: none;
+    width: 85%;
+    margin-top: 3%;
+}
+.b3 {
+    background-color: transparent;
+    border: none;
+    position: relative;
+    left: -18px;
+}
+

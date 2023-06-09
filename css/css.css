@@ -1,5 +1,5 @@
 .container {
-    width: 90%;
+    width: 80%;
     margin: auto;
 }
 
@@ -26,7 +26,7 @@ a {
 }
 
 .gab {
-    gap: 20px;
+    gap: 30px;
 }
 
 .overlay {
@@ -49,7 +49,9 @@ a {
 .nb-border {
     border-bottom: 1px solid #ffffff;
 }
-
+.out1{
+width: 100%;
+}
 .links {
     color: white;
     font-size: 20px;
@@ -111,7 +113,7 @@ a {
 .log2 {
     font-weight: bold;
     font-size: large;
-    margin-right: 20%;
+   
 }
 
 .nb-border2 {
@@ -119,38 +121,42 @@ a {
 }
 
 .nav2 {
-    width: 75%;
+    width: 100%;
     margin-top: 4%;
+    justify-content: space-between;
 }
 
 .div5 img {
     width: 100%;
 
+
 }
 .div5 .buttn1
 {
-    position: relative;
-    bottom: 395px;
-    left: 24px;
+    position: absolute;
+    bottom: 85%;
+    left: 5%
     
 }
 .p1 {
     font-size: larger;
     font-weight: bolder;
-    width: 90%;
-    padding-left: 2%;
+    width: 100%;
+    padding-left: 6%;
+    padding-top: 2%;
 }
 
 .p2 {
-    padding-left: 2%;
-    width: 90%;
+    width: 100%;
+    padding-left: 6%;
     margin-bottom: 2%;
+    margin-top: 5%;
 }
 
 .div5 {
     margin-top: 3%;
-    width: 35%;
-
+    width: 50%;
+position: relative;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
@@ -175,12 +181,13 @@ a {
 
 
 .div7 {
-
+    height: 96px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .div7 img {
-    width: 22%;
+    width: 33%;
+    height: 100%;
 
 }
 
@@ -194,52 +201,65 @@ a {
     margin-top: 3%;
     font-weight: lighter;
 }
+.span4{
+    padding-bottom: 4%;
+}
 
 .div6 {
     margin-top: 3%;
-    margin-left: 4%;
-    width: 35%;
-    height: 18%;
+    margin-left: 3%;
+   
+    
 
 }
 
 .div8 {
     margin-top: 2%;
     width: 100%;
+    height: 96px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .div8 img {
-    width: 22%;
-    height: 110px;
+    width: 26.5%;
+    height: 100%;
 }
 
 .div9 {
     margin-top: 2%;
     width: 100%;
+    height: 96px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .div9 img {
-    width: 22%;
-    height: 110px;
+    width: 27%;
+    height: 100%;
 }
 
 .div10 {
+    height: 96px;
     margin-top: 2%;
     width: 100%;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
-
-.div10 img {
-    width: 22%;
-    height: 110px;
+.div13 img{
+    height: 100%;
 }
-
+.div10 img {
+    width: 25%;
+    height: 100%;
+}
+.aside1 img{
+    height: 100%;
+}
+.card2{
+    height: 185px;
+}
 .icons i {
     border: 2px solid #c2c2c2;
 
-    margin-top: 2%;
+    margin-top: 5%;
     border-radius: 50%;
     padding: .5%;
     text-align: center;
@@ -250,8 +270,11 @@ a {
 
 .div13,
 .div12 {
-    width: 75%;
+    width: 100%;
 
+}
+.card1{
+height: 130px;
 }
 
 .icons2 i {
@@ -265,23 +288,29 @@ a {
     font-size: large;
 }
 
+#aside2{
+    width: 100%;
+}
 .ab {
-    font-size: 30px;
+    font-size: 22px;
     font-weight: bold;
     border-bottom: 2px solid #c2c2c2;
-    margin-left: auto;
+   
     padding-left: 6%;
     margin-top: 11%;
+    padding-bottom: 3%;
 }
-
+.div11{
+    width: 100%;
+}
 .lo {
-
+width: 100%;
     margin: 6%;
     margin-bottom: none;
 }
 
 .right {
-    margin-left: -200px;
+  width: 100%;
     margin-top: 10%;
     border-left: 2px solid #c2c2c2;
 }
@@ -299,7 +328,8 @@ a {
 }
 
 .div14 img {
-    width: 17%;
+    width: 22%;
+   height: 100%;
 }
 
 .stay {
@@ -327,7 +357,7 @@ a {
 
 .div15 img {
     width: 100%;
-    height: 190px;
+    height: 100%;
 }
 
 .div15 {
@@ -338,12 +368,6 @@ a {
 
 
 
-.b {
-    /* position: relative; */
-    bottom: 340px;
-    left: 150px;
-    
-}
 
 .card-bg-overlay img {
     width: 100%;
@@ -368,8 +392,7 @@ a {
 }
 .p3{
     color: white;
-    /* position: relative; */
-    bottom: 240px;
+  
     left: 5%;
     width: 95%;
 }
@@ -377,17 +400,16 @@ a {
 
 
 .Latest{
-    width: 100%;
-    margin-top: 10%;
+    width: 95%;
+    margin-top: 11%;
 }
 .div21{
-    width: 100%;
+    width:95%;
     
 }
 .most{
-   margin-top: 6%;
-    position: relative;
-    left: 150px;
+   margin-top: 7%;
+   
     font-weight: bold;
    width: 40%;
    
@@ -396,33 +418,45 @@ a {
 .nb-border3{
     width: 100%;
     border-bottom: 1px solid #aba7a7;
+    padding-bottom: 2%;
 }
 .right2 img{
-    margin-top: 2%;
     width: 100%;
-
+   height: 100%;
+margin-top: 2%;
 }
 .right2{
     width: 100%;
+    margin-top: 5%;
+    margin-right: 6%;
+    position: relative;
+    text-align: center;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    
 }
-.div21 img{
+.vied{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+/*.div21 img{
     height: 190px;
-}
+}*/
 .right2 p{
     width:95%;
-    padding-top: 0px;
+ 
     padding-left: 4%;
 }
 .aside1{
     width: 100%;
 }
 .b2{
-    position: relative;
-    bottom: 200px;
-    left: 20px;
+   position: relative;
+   top: 10%;
+right:24%;
     cursor: pointer;
+    justify-content: center;
 }
 .right2 i{
     border: 1px solid white;
@@ -430,8 +464,8 @@ a {
     background-color: #ffffff;
     height: 30px;
     position: relative;
-    bottom: 306px;
-    left: 140px;
+    top: 25%;
+    right: 12%;
     padding: 2%;
 }
 .load{
@@ -452,7 +486,7 @@ footer{
 .foot{
     padding-top: 3%;
     width: 22%;
- 
+width: 25%;
     color: #e1e2e5;
 }
 .margin_top{
@@ -461,8 +495,15 @@ footer{
 .foot p{
     color: #c2c2c2;
 }
-
-
+.sub{
+    width: 25%;
+}
+.ul2{
+    justify-content: space-around;
+}
+.ul2{
+    width: 35%;
+}
 .lastul {
     color:#c2c2c2 ;
     margin-left: 25%;

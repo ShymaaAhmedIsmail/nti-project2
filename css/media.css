@@ -1,0 +1,380 @@
+
+/*X-Large devices (large desktops, less than 1400px)*/
+@media (max-width: 1399.98px) { 
+
+
+}
+/* Large devices (desktops, less than 1200px)*/
+
+
+@media (max-width: 1199.98px) { 
+.div14 .div10{
+  font-size: smaller;
+}
+}
+/* Medium devices (tablets, less than 992px)*/
+@media (max-width: 991.98px) { 
+.out{
+    flex-wrap: wrap;
+}
+.div16{
+    flex-wrap: wrap;
+}
+.card-bg-overlay 
+{
+    width: 44%;
+}
+.center{
+   align-self: flex-end;
+   margin-left: 24%;
+}
+.aa img{
+    height: 253px;
+}
+
+
+.aside1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.div20{
+    flex-wrap: wrap;  
+}
+.card2{
+    width: 100%;
+    height: 250px;
+    margin-left: 10%;
+}
+.Latest{
+    width: 100%;
+    margin-left: 4%;
+}
+.div10{
+    width: 100%;
+  
+    
+}
+.most{
+    width: 100%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.load{
+    width: 25%;
+margin-left: 18%;
+}
+.right2 i{
+    position: relative;
+    
+    top: 40%;
+    right: 7%;
+    padding: 1%;
+}
+
+
+}
+/* Small devices (landscape phones, less than 768px)*/
+@media (max-width: 767.98px) { 
+    .nav1{
+        text-align: center;
+    }
+    .logo{
+     justify-content: center;
+    
+     margin-left: 14%;
+    }
+        .links{
+           display: none;
+            gap: none;
+           
+        }
+       
+        .div2{
+            padding-top: 10%;
+           width: 100%;
+           text-align: center;
+           align-self: flex-end;
+           margin-left: 15%;
+        }
+        .div1{
+            width: 100%;
+          
+        } 
+        .div3{
+            display: none;
+            
+        }
+        .div4{
+            display: none;
+        }
+     
+    
+        /*part2*/
+        .nav2{
+            width: 95%;
+           
+        }
+        #aside2{
+            flex-wrap: wrap;
+            width: 95%;
+        }
+        .div5{
+            width: 100%;
+            margin-left: 5%;
+            margin-right: 5%;
+        }
+        .div11{
+            flex-wrap: wrap;
+        }
+        
+        .div12 ,.div13{
+            flex-wrap: wrap;
+        }
+        .out{
+            flex-wrap: wrap;
+            width: 95%;
+        }
+        .right{
+            width: 100%;
+            margin-left: 11%;
+        }
+        .container{
+            margin: 0px;
+        }
+        /*part3*/
+        .div16
+    {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+        .card-bg-overlay {
+            width: 100%;
+            margin-right: 4%;
+        margin-left: 4%;
+        }
+    
+        /*part4*/
+        .aside1{
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .div20{
+            flex-wrap: wrap;  
+        }
+        .card2{
+            width: 100%;
+            height: 250px;
+            margin-left: 10%;
+        }
+        .Latest{
+            width: 100%;
+            margin-left: 4%;
+        }
+        .div10{
+            width: 100%;
+          
+            
+        }
+        .most{
+            width: 100%;
+            margin-left: 10%;
+            margin-top: 5%;
+        }
+        /*part5*/
+        .load{
+            width: 34%;
+        margin-left: 18%;
+        }
+    
+        /*footer*/
+        .sh{
+            display: flex;
+            flex-wrap:wrap ;
+        }
+        .foot p{
+            margin-left: 14%;
+        }
+        .foot{
+            width: 100%;
+        }
+    
+        .wrap{
+            flex-wrap:wrap ; 
+        }
+        .ul2{
+            display: flex;
+            flex-wrap:wrap ;
+            margin-left: 5%;
+            justify-content: space-between;
+        }
+        .lastul {
+            display: flex;
+            gap: 108px;
+            width: 100%;
+            margin-bottom: 5%;
+        }
+    
+     .sub{
+        margin-left: 14%;
+        width: 100%;
+        margin-bottom: 5%;
+     }   
+
+
+}
+/* X-Small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*    part1*/
+.nav1{
+    text-align: center;
+}
+.logo{
+ justify-content: center;
+
+ margin-left: 14%;
+}
+    .links{
+       display: none;
+        gap: none;
+       
+    }
+   
+    .div2{
+        padding-top: 10%;
+       width: 100%;
+       text-align: center;
+       align-self: flex-end;
+       margin-left: 15%;
+    }
+    .div1{
+        width: 100%;
+      
+    } 
+    .div3{
+        display: none;
+        
+    }
+    .div4{
+        display: none;
+    }
+ 
+
+    /*part2*/
+    .nav2{
+        width: 95%;
+       
+    }
+    #aside2{
+        flex-wrap: wrap;
+        width: 95%;
+    }
+    .div5{
+        width: 100%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .div11{
+        flex-wrap: wrap;
+    }
+    
+    .div12 ,.div13{
+        flex-wrap: wrap;
+    }
+    .out{
+        flex-wrap: wrap;
+        width: 95%;
+    }
+    .right{
+        width: 100%;
+        margin-left: 11%;
+    }
+    .container{
+        margin: 0px;
+    }
+    /*part3*/
+    .div16
+{
+    flex-wrap: wrap;
+    width: 100%;
+}
+    .card-bg-overlay {
+        width: 100%;
+        margin-right: 4%;
+    margin-left: 4%;
+    }
+
+    /*part4*/
+    .aside1{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .div20{
+        flex-wrap: wrap;  
+    }
+    .card2{
+        width: 100%;
+        height: 250px;
+        margin-left: 10%;
+    }
+    .Latest{
+        width: 100%;
+        margin-left: 4%;
+    }
+    .div10{
+        width: 100%;
+      
+        
+    }
+    .most{
+        width: 100%;
+        margin-left: 10%;
+        margin-top: 5%;
+    }
+    /*part5*/
+    .load{
+        width: 34%;
+    margin-left: 18%;
+    }
+
+    /*footer*/
+    .sh{
+        display: flex;
+        flex-wrap:wrap ;
+    }
+    .foot p{
+        margin-left: 14%;
+    }
+    .foot{
+        width: 100%;
+    }
+
+    .wrap{
+        flex-wrap:wrap ; 
+    }
+    .ul2{
+        display: flex;
+        flex-wrap:wrap ;
+        margin-left: 5%;
+        justify-content: space-between;
+    }
+    .lastul {
+        display: flex;
+        gap: 108px;
+        width: 100%;
+        margin-bottom: 5%;
+    }
+
+ .sub{
+    margin-left: 14%;
+    width: 100%;
+    margin-bottom: 5%;
+ }   
+}
+
+
+
+
+
+
+
+
